@@ -114,7 +114,7 @@ class AddPatientMenu(QWidget):
 
     def add_button_clicked(self):
         phn = int(self.phn_input.text())
-        name = self.phn_input.text()
+        name = self.name_input.text()
         dob = self.dob_input.text()
         phone = self.phone_input.text()
         email = self.email_input.text()
