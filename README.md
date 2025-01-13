@@ -38,7 +38,7 @@ This project is a fully graphical user interface (GUI) application designed for 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/medical-clinic-system.git
+   git clone https://github.com/your-username/Patient_clinic.git
 
 2. Navigate to the project directory
    ```bash
