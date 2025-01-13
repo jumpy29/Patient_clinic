@@ -49,7 +49,5 @@ This project is a fully graphical user interface (GUI) application designed for 
    python3.11 -m clinic gui
 
 4. Log in credential
-   Enter default id password:/n
-   Username: user/n
-   Password: 123456/n
+   Enter default credential: username: "user", password: "123456"
 
