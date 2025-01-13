@@ -1,5 +1,3 @@
-# Patient_clinic
-
 # Medical Clinic System - Graphical User Interface (GUI)
 
 ## Overview
@@ -33,9 +31,7 @@ This project is a fully graphical user interface (GUI) application designed for 
 
 ## Technology Stack
 - **Programming Language**: Python
-- **GUI Framework**: Tkinter / PyQt / Kivy (choose one and update based on actual implementation)
-- **Database**: SQLite / MySQL (update based on implementation)
-- **Encryption**: BCrypt or similar for securing login credentials.
+- **GUI Framework**: PyQt
 
 ---
 
@@ -43,3 +39,17 @@ This project is a fully graphical user interface (GUI) application designed for 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/medical-clinic-system.git
+
+2. Navigate to the project directory
+   ```bash
+   cd Patient_clinic
+
+3. Make sure to have python 3.11 installed and enter the command
+   ```bash
+   python3.11 -m clinic gui
+
+4. Log in credential
+   Enter default id password:
+   Username: user
+   Password: 123456
+
